@@ -1,0 +1,24 @@
+name: Stargazer
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"  # 每天凌晨 0 点触发
+
+jobs:
+  stargazer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stargazer
+        uses: zhuozhiyongde/gaze-stars@v1.0.0
+        with:
+          api-token: ${{ secrets.API_TOKEN }}  # 使用仓库机密中的 Token
+          github-username: ${{ github.repository_owner }}  # 使用仓库所有者作为 GitHub 用户名
+          git-name: Github Action
+          git-email: actions@users.noreply.github.com
+          git-message: 'chore(updates): updated entries in files'
+          template-path: template/template.md  # 默认模板路径
+          output-path: README.md  # 输出文件路径
