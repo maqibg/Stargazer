@@ -12,6 +12,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+-   [zouzonghao/AvifGo](https://github.com/zouzonghao/AvifGo) - 一个基于 Electron + Vue3 + Ffmpeg 的图片上传工具，可以将图片转换为 AVIF 格式并自动上传至 GitHub
 -   [zhuozhiyongde/Stargazer](https://github.com/zhuozhiyongde/Stargazer) - 我在梦河边浣洗星星。
 -   [goxofy/web_clipper](https://github.com/goxofy/web_clipper) - singleFile + gh pages + deepseek api + notion db + tg bot = web clipper and notify
 -   [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
@@ -282,7 +284,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [zdotsh/z.sh](https://github.com/zdotsh/z.sh) - https://z.sh/
 -   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 -   [lw9726/eu_ex](https://github.com/lw9726/eu_ex) - eu_ex
--   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 -   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
 -   [Avenshy/mahjong-helper-majsoul-mitmproxy](https://github.com/Avenshy/mahjong-helper-majsoul-mitmproxy) - 本项目用于将雀魂的牌局发到日本麻将助手mahjong-helper，基于mitmproxy的中间人攻击方式，不支持牌谱分析。
 -   [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
