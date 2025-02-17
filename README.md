@@ -12,6 +12,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [L1ne-cd/Typora_Unlocker](https://github.com/L1ne-cd/Typora_Unlocker) - Typora 解锁 序列号 激活码 激活补丁 支持的版本：1.0.0 - 1.9.5
+-   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案，支持 Telegram Bot 、R2、S3 等多种存储方式！
 -   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 -   [zouzonghao/AvifGo](https://github.com/zouzonghao/AvifGo) - 一个基于 Electron + Vue3 + Ffmpeg 的图片上传工具，可以将图片转换为 AVIF 格式并自动上传至 GitHub
 -   [zhuozhiyongde/Stargazer](https://github.com/zhuozhiyongde/Stargazer) - 我在梦河边浣洗星星。
@@ -26,7 +28,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Mrjwj34/Hagemi](https://github.com/Mrjwj34/Hagemi)
 -   [muyoou/st-memory-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern记忆增强扩展
 -   [ZerxZ/SillyTavern-Extension-ZerxzLib](https://github.com/ZerxZ/SillyTavern-Extension-ZerxzLib)
--   [cbingb666/115master](https://github.com/cbingb666/115master) - 115Master 是一个 115 网盘的 Tempermonkey 脚本，旨在提升 115网盘 的浏览体验。⚠️默认仅支持 【115 浏览器】运行本脚本，其他浏览器见下方：安装说明
+-   [cbingb666/115master](https://github.com/cbingb666/115master) - 115Master 是一个 115 网盘的 Tampermonkey 脚本，旨在提升 115网盘 的浏览体验。⚠️请详细查看下面安装说明
 -   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 -   [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片 等资源
 -   [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) - 点击链接安装油猴脚本
