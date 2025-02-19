@@ -12,6 +12,9 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [wxhzhwxhzh/Saossion](https://github.com/wxhzhwxhzh/Saossion) - 骚神库
+-   [wxhzhwxhzh/Saossion_element_helper](https://github.com/wxhzhwxhzh/Saossion_element_helper) - 元素自动定位助手 来自骚神库 Drissionpage 库 元素语法定位谷歌浏览器插件 ， 辅助 新手快速入门 Drissionpage库，能避免使用DP库中遇到的各种关于元素定位的疑难杂症
+-   [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 -   [IceDynamix/reliquary-archiver](https://github.com/IceDynamix/reliquary-archiver) - tool to create a relic export from network packets of a certain turn-based anime game
 -   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 -   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
@@ -130,7 +133,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [OverTimeBunny/TRSS__Yunzai-Kuro-Plugin_help](https://github.com/OverTimeBunny/TRSS__Yunzai-Kuro-Plugin_help) - 用于修复TRSS崽的图片异常问题
 -   [mengluo04/yunzai-mystool](https://github.com/mengluo04/yunzai-mystool) - 适配TRSS 云崽的米游社工具，包含定时执行签到和体力推送
 -   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
--   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
+-   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
 -   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI. 
 -   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 -   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
