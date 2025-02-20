@@ -12,6 +12,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 一种插件，支持 OneBot 11 和 Satori 协议
 -   [wxhzhwxhzh/Saossion](https://github.com/wxhzhwxhzh/Saossion) - 骚神库
 -   [wxhzhwxhzh/Saossion_element_helper](https://github.com/wxhzhwxhzh/Saossion_element_helper) - 元素自动定位助手 来自骚神库 Drissionpage 库 元素语法定位谷歌浏览器插件 ， 辅助 新手快速入门 Drissionpage库，能避免使用DP库中遇到的各种关于元素定位的疑难杂症
 -   [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
