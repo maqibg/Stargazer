@@ -12,6 +12,17 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [ying-ck/fanqienovel-downloader](https://github.com/ying-ck/fanqienovel-downloader) - 下载番茄小说
+-   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
+-   [ErlichLiu/Whisper-Input](https://github.com/ErlichLiu/Whisper-Input) - 可以实现按下 Option 按钮开始录制，抬起按钮就结束录制，并调用 Groq Whisper Large V3 Turbo 模型进行转译，由于 Groq 的速度非常快，所以大部分的语音输入都可以在 1-2s 内反馈。并且得益于 whisper 的强大能力，转译效果非常不错。
+-   [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab
+-   [rxhaol/easy-configs-rime](https://github.com/rxhaol/easy-configs-rime) - 小狼毫输入法设置
+-   [uk0/telethon_get_media](https://github.com/uk0/telethon_get_media) - Telegram download media |  Telegram 下载群聊天的文件以及视频等内容。｜ Telegram 爬虫 ｜ tg 爬虫
+-   [nexmoe/lm-speed](https://github.com/nexmoe/lm-speed) - Help developers optimize AI application performance through comprehensive speed testing and analysis
+-   [MindMorbius/MindLite](https://github.com/MindMorbius/MindLite) - MindLite - 让灵感链接现实
+-   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+-   [LaoZhuJackson/SnowbreakAutoAssistant](https://github.com/LaoZhuJackson/SnowbreakAutoAssistant) - PC自动玩尘白，自动化代理，尘白禁区助手，自动钓鱼，自动信源解析
+-   [LaoZhuJackson/SAA](https://github.com/LaoZhuJackson/SAA) - 2.0施工中，PC自动玩尘白，尘白自动化代理，尘白禁区助手
 -   [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 一种插件，支持 OneBot 11 和 Satori 协议
 -   [wxhzhwxhzh/Saossion](https://github.com/wxhzhwxhzh/Saossion) - 骚神库
 -   [wxhzhwxhzh/Saossion_element_helper](https://github.com/wxhzhwxhzh/Saossion_element_helper) - 元素自动定位助手 来自骚神库 Drissionpage 库 元素语法定位谷歌浏览器插件 ， 辅助 新手快速入门 Drissionpage库，能避免使用DP库中遇到的各种关于元素定位的疑难杂症
@@ -38,7 +49,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [cbingb666/115master](https://github.com/cbingb666/115master) - 115Master 是一个 115 网盘的 Tampermonkey 脚本，旨在提升 115网盘 的浏览体验。⚠️请详细查看下面安装说明！⚠️Fork项目进行调整的朋友请注意：目前项目正在重构到Vue3，以支持未来快速迭代新功能。原先引入使用的DPlayer播放器也将废弃，我将重构新的XPlayer 播放器，来方便支持更多播放器有趣的功能！🎉
 -   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 -   [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片 等资源
--   [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) - 点击链接安装油猴脚本
+-   [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) - 点击链接查看文档
 -   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine)
 -   [Angels-Ray/fake-rosrus](https://github.com/Angels-Ray/fake-rosrus) - 一个用于重新生成 Cu*sor 设备 ID 和设置 Access Token 的 Cu*sor 扩展
 -   [crazydan-studio/kuaizi-ime-android](https://github.com/crazydan-studio/kuaizi-ime-android) - 筷字输入法 Android 客户端
@@ -142,7 +153,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
 -   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 -   [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) - HTTP(S) download manager that uses input/output completion ports (IOCP).
--   [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
+-   [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 -   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 -   [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 -   [Ven3/playcount](https://github.com/Ven3/playcount) - 为bilibili而来, 用来刷B站播放量, 懂的都懂
@@ -494,7 +505,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
 -   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 -   [xunkong/xunkong](https://github.com/xunkong/xunkong) - 记录旅途中发生的事
--   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+-   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 -   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 -   [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
 -   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代服务器运维管理面板。简单轻量，高效运维。
