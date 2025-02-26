@@ -12,6 +12,9 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+-   [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
+-   [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 -   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 -   [239144498/Lengyue-Vcode](https://github.com/239144498/Lengyue-Vcode) - 各种滑动验证码识别 [腾讯云] [易盾] [Vaptcha] [Geetest] [极验] 各种网站破解
 -   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - Surge、Mihomo(Clash) 自用代理配置
@@ -68,8 +71,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [ZerxZ/SillyTavern-Extension-ZerxzLib](https://github.com/ZerxZ/SillyTavern-Extension-ZerxzLib)
 -   [cbingb666/115master](https://github.com/cbingb666/115master) - 115Master 是一个 115 网盘的 Tampermonkey 脚本，旨在提升 115网盘 的浏览体验。
 -   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
--   [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片等资源
--   [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) - 点击链接查看文档
+-   [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片等资源。
+-   [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) - GitHub Freshness 在线文档
 -   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine)
 -   [Angels-Ray/fake-rosrus](https://github.com/Angels-Ray/fake-rosrus) - 一个用于重新生成 Cu*sor 设备 ID 和设置 Access Token 的 Cu*sor 扩展
 -   [crazydan-studio/kuaizi-ime-android](https://github.com/crazydan-studio/kuaizi-ime-android) - 筷字输入法 Android 客户端
