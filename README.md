@@ -12,6 +12,9 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [docblue/chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
+-   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+-   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 -   [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
 -   [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 -   [codexu/note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
@@ -49,7 +52,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [nexmoe/lm-speed](https://github.com/nexmoe/lm-speed) - Help developers optimize AI application performance through comprehensive speed testing and analysis
 -   [MindMorbius/MindLite](https://github.com/MindMorbius/MindLite) - MindLite - 让灵感链接现实
 -   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
--   [LaoZhuJackson/SnowbreakAutoAssistant](https://github.com/LaoZhuJackson/SnowbreakAutoAssistant) - PC自动玩尘白，自动化代理，尘白禁区助手，自动钓鱼，自动信源解析
+-   [LaoZhuJackson/SnowbreakAutoAssistant](https://github.com/LaoZhuJackson/SnowbreakAutoAssistant) - PC自动玩尘白，自动化代理，尘白禁区助手，自动钓鱼，信源解析，水弹，异星守护，迷宫
 -   [LaoZhuJackson/SAA](https://github.com/LaoZhuJackson/SAA) - 2.0施工中，PC自动玩尘白，尘白自动化代理，尘白禁区助手
 -   [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 一种插件，支持 OneBot 11 和 Satori 协议
 -   [wxhzhwxhzh/Saossion](https://github.com/wxhzhwxhzh/Saossion) - 骚神库
