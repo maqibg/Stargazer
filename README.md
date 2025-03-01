@@ -12,12 +12,14 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - An ultra-low resource consumption super-fast self-hosted offline translation server, which only requires a CPU + 1G of memory to run. 超低资源消耗超快的离线翻译服务器，仅需 CPU + 1G 内存即可运行。翻译自由辣🥵
+-   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 -   [docblue/chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
 -   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 -   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 -   [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
 -   [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
--   [codexu/note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
+-   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform AI-powered note application dedicated to recording and writing.
 -   [BeeThor/CodingTools](https://github.com/BeeThor/CodingTools) - CodingTool 是一个现代化的编码工具集合，提供多种常用的编码、加密和解密功能。项目采用 Vue 3 和 TailwindCSS 构建，具有简洁美观的界面和流畅的用户体验。
 -   [liujuntao123/new-svg-viewer](https://github.com/liujuntao123/new-svg-viewer) - 一个界面清爽，功能齐全的 SVG 预览工具
 -   [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -224,13 +226,12 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
 -   [LloydAsp/nfd](https://github.com/LloydAsp/nfd) - No Fraud / Node Forward Bot
 -   [kingmo888/rustdesk-api-server](https://github.com/kingmo888/rustdesk-api-server) - 基于Django的RustDesk Api&Web Server，除了支持api所有功能，还支持web注册、管理、展示等。已支持到最新1.3.1版本。
--   [nyms7/easynote](https://github.com/nyms7/easynote)
 -   [Justwen/NGA-CLIENT-VER-OPEN-SOURCE](https://github.com/Justwen/NGA-CLIENT-VER-OPEN-SOURCE) - NGA客户端开源版代码仓库
 -   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 -   [VMCoud/minimal-web-notepad](https://github.com/VMCoud/minimal-web-notepad) - Minimal PHP web notepad with password protection. All notes saved as text files.
 -   [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 -   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image)
--   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and run any docker image.
+-   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availability databases (like MySQL, PostgreSQL, Redis, and MongoDB) and run any Docker image with ease.
 -   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 -   [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - "ChatBot" AI application, supporting GPT,  Gemini Pro, Cohere & Ollama models
 -   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
@@ -321,7 +322,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 -   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 本项目汇集5000+优质的Telegram群组、频道和机器人，为您提供高质量的学习和技术资源。内容涵盖热门群组、实用频道和各类机器人，助您快速找到感兴趣的资源，轻松提升技能。欢迎加入，一起探索丰富的Telegram资源库！
 -   [ishare20/lemonPush](https://github.com/ishare20/lemonPush) - 同一WiFi环境下手机高效推送文本到电脑剪切板的工具 || An efficient tool for pushing text from your mobile device to your computer's clipboard under the same WiFi environment.
--   [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music
+-   [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music
 -   [tznb1/TwoNav](https://github.com/tznb1/TwoNav) - TwoNav 第二代云导航|云书签管理系统
 -   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 -   [yriiolik/MihoyoBBSTools](https://github.com/yriiolik/MihoyoBBSTools)
