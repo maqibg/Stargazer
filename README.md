@@ -12,10 +12,12 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
+-   [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
 -   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - An ultra-low resource consumption super-fast self-hosted offline translation server, which only requires a CPU + 1G of memory to run. 超低资源消耗超快的离线翻译服务器，仅需 CPU + 1G 内存即可运行。翻译自由辣🥵
 -   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 -   [docblue/chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
--   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+-   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 -   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 -   [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
 -   [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
@@ -101,7 +103,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [asxez/DockerDesktop-CN](https://github.com/asxez/DockerDesktop-CN) - Docker汉化 Docker中文版 Docker汉化包 DockerDesktop汉化 Docker Windows Docker MAC
 -   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 -   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
--   [bestruirui/subs-check](https://github.com/bestruirui/subs-check) - 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash订阅工具
+-   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash订阅工具
 -   [KarinJS/Karin](https://github.com/KarinJS/Karin) - 轻量、高效、简洁的 NodeJS 机器人框架
 -   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 -   [maoyaotang12/sougouscel](https://github.com/maoyaotang12/sougouscel) - 搜狗输入法全量中文词库
