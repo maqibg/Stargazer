@@ -14,7 +14,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 -   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
 -   [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
--   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - An ultra-low resource consumption super-fast self-hosted offline translation server, which only requires a CPU + 1G of memory to run. 超低资源消耗超快的离线翻译服务器，仅需 CPU + 1G 内存即可运行。翻译自由辣🥵
+-   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 -   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 -   [docblue/chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
 -   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -511,7 +511,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [QiuChenlyOpenSource/MusicDownload](https://github.com/QiuChenlyOpenSource/MusicDownload) - 歌曲下载
 -   [UIGF-org/mihoyo-api-collect](https://github.com/UIGF-org/mihoyo-api-collect) - 收集米哈游旗下的游戏与应用的API。
 -   [jw-12138/should-i-work-today](https://github.com/jw-12138/should-i-work-today) - 这是一个部署在 Cloudflare workers 上的 API，它会根据中国国务院发布的数据来确定今天或明天是节假日还是需要补班，可以用在一些需要自动化的场景。
--   [PencilNavigator/freenom-workers](https://github.com/PencilNavigator/freenom-workers) - Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Workers. 通过Cloudflare Workers自动续期Freenom域名(.cf .ga .gq .ml .tk)。
+-   [pencilnav/freenom-workers](https://github.com/pencilnav/freenom-workers) - Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Workers. 通过Cloudflare Workers自动续期Freenom域名(.cf .ga .gq .ml .tk)。
 -   [Ai-Yolo/OpenAI-APIKey-Query](https://github.com/Ai-Yolo/OpenAI-APIKey-Query) - 基于Cloudflare Workers自部署查询OpenAI-API-Key密钥使用详情查询网站
 -   [rensatsu/my-ip-worker](https://github.com/rensatsu/my-ip-worker) - Cloudflare Worker which shows your IP and some details about your ISP
 -   [Yiwei666/02_javascript_cf-worker](https://github.com/Yiwei666/02_javascript_cf-worker) - 运行在Cloudflare Worker上的javascript脚本
@@ -539,7 +539,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
 -   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 -   [xunkong/xunkong](https://github.com/xunkong/xunkong) - 记录旅途中发生的事
--   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+-   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 -   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 -   [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
 -   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代服务器运维管理面板。简单轻量，高效运维。
