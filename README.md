@@ -12,6 +12,9 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [xianull0418/obsidian_exp](https://github.com/xianull0418/obsidian_exp)
+-   [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
+-   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 -   [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 -   [samzong/chrome-tabboost](https://github.com/samzong/chrome-tabboost) - TabBoost is a Chrome extension that replicates commonly used features from Arc browser to enhance the Chrome user experience.
 -   [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
@@ -19,7 +22,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 -   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
 -   [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
--   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+-   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-end high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 -   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 -   [docblue/chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
 -   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -263,7 +266,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 -   [wdvipa/GenshinLiveStreamHelper](https://github.com/wdvipa/GenshinLiveStreamHelper) - 一款用于原神直播活动的抢码助手，支持哔哩哔哩、虎牙、斗鱼多个平台的自动抢码，附带一些页面优化功能
 -   [wdvipa/bili_sr-ys](https://github.com/wdvipa/bili_sr-ys)
--   [cctyl/BiliRecommBehaviorCorrection](https://github.com/cctyl/BiliRecommBehaviorCorrection) - 纠正bilibili视频推荐倾向
+-   [cctyl/BiliRecommBehaviorCorrection](https://github.com/cctyl/BiliRecommBehaviorCorrection) - 基于黑白名单规则实现的bilibili个性化推荐的纠正
 -   [PC6live/bilibili-joybook-tampermonkey](https://github.com/PC6live/bilibili-joybook-tampermonkey) - Bilibili 共享大会员
 -   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 -   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI Automation Testing Tools For Genshin Impact
