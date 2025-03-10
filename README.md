@@ -22,7 +22,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 -   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
 -   [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
--   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-end high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+-   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 -   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 -   [docblue/chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
 -   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -110,13 +110,13 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 -   [asxez/DockerDesktop-CN](https://github.com/asxez/DockerDesktop-CN) - Docker汉化 Docker中文版 Docker汉化包 DockerDesktop汉化 Docker Windows Docker MAC
 -   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
--   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
+-   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有母语般的阅读体验。https://fluent.thinkstu.com
 -   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash订阅工具
 -   [KarinJS/Karin](https://github.com/KarinJS/Karin) - 轻量、高效、简洁的 NodeJS 机器人框架
 -   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 -   [maoyaotang12/sougouscel](https://github.com/maoyaotang12/sougouscel) - 搜狗输入法全量中文词库
 -   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
--   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 现代化的基于 NTQQ 的 Bot 协议端实现
+-   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework implemented based on NTQQ
 -   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
 -   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
 -   [zyl140640/jy-reading](https://github.com/zyl140640/jy-reading) - 本地导入文件进行阅读小说
