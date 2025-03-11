@@ -12,6 +12,10 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+-   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+-   [zzzdajb/DickHelper](https://github.com/zzzdajb/DickHelper)
+-   [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - 一个帮你计算当前工作"值不值得"的在线工具
 -   [xianull0418/obsidian_exp](https://github.com/xianull0418/obsidian_exp)
 -   [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
 -   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -36,7 +40,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 -   [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 -   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
--   [239144498/Lengyue-Vcode](https://github.com/239144498/Lengyue-Vcode) - 各种滑动验证码识别 [腾讯云] [易盾] [Vaptcha] [Geetest] [极验] 各种网站破解
+-   [kfcx/Lengyue-Vcode](https://github.com/kfcx/Lengyue-Vcode) - 各种滑动验证码识别 [腾讯云] [易盾] [Vaptcha] [Geetest] [极验] 各种网站破解
 -   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - Surge、Mihomo(Clash) 自用代理配置
 -   [Yorkian/clasher](https://github.com/Yorkian/clasher) - A tool for managing network routing rules
 -   [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具
@@ -74,7 +78,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 -   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 -   [L1ne-cd/Typora_Unlocker](https://github.com/L1ne-cd/Typora_Unlocker) - Typora 解锁 序列号 激活码 激活补丁 支持的版本：1.0.0 - 1.9.5
--   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案，支持 Telegram Bot 、R2、S3 等多种存储方式，支持目录功能
+-   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 -   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 -   [zouzonghao/AvifGo](https://github.com/zouzonghao/AvifGo) - 一个基于 Electron + Vue3 + Ffmpeg 的图片上传工具，可以将图片转换为 AVIF 格式并自动上传至 GitHub
 -   [zhuozhiyongde/Stargazer](https://github.com/zhuozhiyongde/Stargazer) - 我在梦河边浣洗星星。
@@ -102,7 +106,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [kissnavel/bujidaoRUN](https://github.com/kissnavel/bujidaoRUN) - yunzai v3 插件，自用修改，已添加国际服支持，建议仅保留签到功能，其他功能可按需保留，不需要保留的可用锅巴插件屏蔽。
 -   [kissnavel/loveMys](https://github.com/kissnavel/loveMys) - yunzai v3 插件，自用修改过码，已添加国际服支持。
 -   [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
--   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust
+-   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages
 -   [LiangChen-Ye/utools-qwen-ocr](https://github.com/LiangChen-Ye/utools-qwen-ocr) - 基于通义千问大模型的智能 OCR 识别工具
 -   [huhusmang/utools-qwen-ocr](https://github.com/huhusmang/utools-qwen-ocr) - 基于通义千问大模型的智能 OCR 识别工具
 -   [snowfal1/CloudflareST_auto_selector](https://github.com/snowfal1/CloudflareST_auto_selector) - 简单的Cloudflare自动优选IP并添加DNS解析的工具，配合定时任务实现Windows平台上的自动优选第三方反代IP。Windows实现自动优选IP。
