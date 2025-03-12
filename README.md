@@ -12,6 +12,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [hmjz100/DiscourseHelper](https://github.com/hmjz100/DiscourseHelper) - 重构 “linuxdo 增强插件”，再次以脚本方式为您呈现！；Discourse Helper UserScript
 -   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 -   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 -   [zzzdajb/DickHelper](https://github.com/zzzdajb/DickHelper)
