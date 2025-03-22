@@ -12,6 +12,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [zqq-nuli/auto-audio-book](https://github.com/zqq-nuli/auto-audio-book) - AI 有声书自动化生成工具
 -   [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 -   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
 -   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash/base64订阅工具
@@ -195,13 +196,12 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [likuai2010/auto-installer](https://github.com/likuai2010/auto-installer) - HarmonyOS Next Hap installer
 -   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 -   [Cteros/eno-music](https://github.com/Cteros/eno-music)
--   [Lomusire/unlimited-cloud-storage](https://github.com/Lomusire/unlimited-cloud-storage) - Automaticly Collect coins from TeraBox and get unlimited free cloud storage and premium on TeraBox
 -   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
 -   [systemmin/kill-doc](https://github.com/systemmin/kill-doc) - 看到经常有小伙伴们需要下载一些免费文档，但是相关网站浏览体验不好各种广告，各种登录验证，需要很多步骤才能下载文档，该脚本就是为了解决您的烦恼而诞生，尽可能做到自动化
 -   [OverTimeBunny/TRSS__Yunzai-Kuro-Plugin_help](https://github.com/OverTimeBunny/TRSS__Yunzai-Kuro-Plugin_help) - 用于修复TRSS崽的图片异常问题
 -   [mengluo04/yunzai-mystool](https://github.com/mengluo04/yunzai-mystool) - 适配TRSS 云崽的米游社工具，包含定时执行签到和体力推送
 -   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
--   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+-   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 -   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI. 
 -   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 -   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
