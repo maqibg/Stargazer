@@ -52,7 +52,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 -   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 -   [kfcx/Lengyue-Vcode](https://github.com/kfcx/Lengyue-Vcode) - 各种滑动验证码识别 [腾讯云] [易盾] [Vaptcha] [Geetest] [极验] 各种网站破解
--   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - Surge、Mihomo(Clash) 自用代理配置
+-   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(原Clash)、Surge等工具的优化配置文件与使用指南。
 -   [Yorkian/clasher](https://github.com/Yorkian/clasher) - A tool for managing network routing rules
 -   [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具
 -   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
