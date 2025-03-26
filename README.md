@@ -12,6 +12,16 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) - AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
+-   [curios-city/DeepFaceLabSN](https://github.com/curios-city/DeepFaceLabSN) - DeepFaceLab 汉化整合包
+-   [argenspin/Rope-Live](https://github.com/argenspin/Rope-Live) - Customized fork of Rope Deepfake software featuring live streaming capabilities and support for Deepfacelive models
+-   [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
+-   [neurogen-dev/Rope-neurogen](https://github.com/neurogen-dev/Rope-neurogen) - Portable versions of Rope DeepFake
+-   [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
+-   [golangboy/wxocr](https://github.com/golangboy/wxocr) - nothing
+-   [fivif/zay-cloud](https://github.com/fivif/zay-cloud)
+-   [Yuri-NagaSaki/ImageFlow](https://github.com/Yuri-NagaSaki/ImageFlow) - Efficient and Intelligent Image Management and Distribution System
+-   [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt) - A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
 -   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 - 支持多平台的番茄小说下载工具，提供TXT/EPUB格式转换，GUI界面及GitHub Actions在线下载功能
 -   [zqq-nuli/auto-audio-book](https://github.com/zqq-nuli/auto-audio-book) - AI 有声书自动化生成工具
 -   [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
