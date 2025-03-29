@@ -12,6 +12,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
+-   [qiaoshouqing/familytree](https://github.com/qiaoshouqing/familytree) - A minimalist open-source family tree website project.
 -   [Dr-Ai-0018/Siliconflow-API-Management](https://github.com/Dr-Ai-0018/Siliconflow-API-Management) - 一个功能强大的API Key管理平台，不仅通过智能负载均衡算法自动选择可用API密钥，而且提供密钥有效性检测、管理、权限分享等功能实现。系统设计基于Cloudflare Worker脚本，部署简单，同时提供强大的可视化管理工具与全面的数据分析功能。
 -   [ltxlong/simple-video-player](https://github.com/ltxlong/simple-video-player)
 -   [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
@@ -207,11 +209,11 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 -   [Danil0v3s/CleanMeter](https://github.com/Danil0v3s/CleanMeter) - Sleek metrics overlay. Join our discord https://discord.gg/phqwe89cvE
 -   [CottonCandyZ/bangumi-electron](https://github.com/CottonCandyZ/bangumi-electron) - [wip] A Bangumi Desktop App. 一个正在开发的 https://bgm.tv 桌面客户端
--   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，Bangumi 同步，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
+-   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 -   [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 -   [BBD-YZZ/week-passwd](https://github.com/BBD-YZZ/week-passwd) - FTP,SSH,MYSQL,MSSQL等弱口令爆破工具！
 -   [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily 
--   [jark006/FtpServer](https://github.com/jark006/FtpServer) - 一键开启FTP文件服务器，方便其他设备通过网络传输、管理文件，支持IPv4，IPv6。
+-   [jark006/FtpServer](https://github.com/jark006/FtpServer) - 一键开启FTP文件服务器，方便其他设备通过网络传输、管理文件，支持IPv4/IPv6、多用户、FTPS。
 -   [likuai2010/auto-installer](https://github.com/likuai2010/auto-installer) - HarmonyOS Next Hap installer
 -   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 -   [Cteros/eno-music](https://github.com/Cteros/eno-music)
