@@ -12,6 +12,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 -   [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 -   [qiaoshouqing/familytree](https://github.com/qiaoshouqing/familytree) - A minimalist open-source family tree website project.
 -   [Dr-Ai-0018/Siliconflow-API-Management](https://github.com/Dr-Ai-0018/Siliconflow-API-Management) - 一个功能强大的API Key管理平台，不仅通过智能负载均衡算法自动选择可用API密钥，而且提供密钥有效性检测、管理、权限分享等功能实现。系统设计基于Cloudflare Worker脚本，部署简单，同时提供强大的可视化管理工具与全面的数据分析功能。
