@@ -12,6 +12,11 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [tatookan/SL_deepfacelab_linux](https://github.com/tatookan/SL_deepfacelab_linux)
+-   [wchoi09/DeepFaceLab_NVIDIA_Linux](https://github.com/wchoi09/DeepFaceLab_NVIDIA_Linux) - DeepFaceLab_NVIDIA
+-   [R3D4NG3L/Onedrive-Analyzer](https://github.com/R3D4NG3L/Onedrive-Analyzer) - OneDriveSpaceCleaner is a tool to help you manage and optimize your OneDrive storage.  It identifies large and duplicate files, allowing you to easily free up space.
+-   [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+-   [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image compressor that runs in your browser.
 -   [7lumen/BBDownG](https://github.com/7lumen/BBDownG) - BBDown的跨平台图形化版本，且支持批量视频下载
 -   [EFLKumo/jam](https://github.com/EFLKumo/jam) - 🍯A scoop bucket that emphasizes reliability and cleanliness.
 -   [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
