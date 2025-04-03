@@ -12,6 +12,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能
 -   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 -   [tatookan/SL_deepfacelab_linux](https://github.com/tatookan/SL_deepfacelab_linux)
 -   [wchoi09/DeepFaceLab_NVIDIA_Linux](https://github.com/wchoi09/DeepFaceLab_NVIDIA_Linux) - DeepFaceLab_NVIDIA
@@ -45,7 +46,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [zqq-nuli/auto-audio-book](https://github.com/zqq-nuli/auto-audio-book) - AI 有声书自动化生成工具
 -   [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 -   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
--   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash/base64/qx等等所有格式的订阅工具
+-   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具
 -   [HChaoHui/msOauth2api](https://github.com/HChaoHui/msOauth2api) - 将微软Oauth2登录取件转换为API取件 部署在Vercel 无服务器版
 -   [yun8862779/cf-Microsoft-mail-api](https://github.com/yun8862779/cf-Microsoft-mail-api) - 微软邮箱 API 客户端 - 基于 Cloudflare Workers 的 Web UI
 -   [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
