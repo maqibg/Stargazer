@@ -12,13 +12,14 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python. 
 -   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能
 -   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 -   [tatookan/SL_deepfacelab_linux](https://github.com/tatookan/SL_deepfacelab_linux)
 -   [wchoi09/DeepFaceLab_NVIDIA_Linux](https://github.com/wchoi09/DeepFaceLab_NVIDIA_Linux) - DeepFaceLab_NVIDIA
 -   [R3D4NG3L/Onedrive-Analyzer](https://github.com/R3D4NG3L/Onedrive-Analyzer) - OneDriveSpaceCleaner is a tool to help you manage and optimize your OneDrive storage.  It identifies large and duplicate files, allowing you to easily free up space.
 -   [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
--   [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image compressor that runs in your browser.
+-   [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 -   [7lumen/BBDownG](https://github.com/7lumen/BBDownG) - BBDown的跨平台图形化版本，且支持批量视频下载
 -   [EFLKumo/jam](https://github.com/EFLKumo/jam) - 🍯A scoop bucket that emphasizes reliability and cleanliness.
 -   [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -165,7 +166,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
 -   [zyl140640/jy-reading](https://github.com/zyl140640/jy-reading) - 本地导入文件进行阅读小说
 -   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
--   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全带读音单字表词典：LMDG - Language, Model, Dictionary, Grammar。Q群：11033572
+-   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库：LMDG - Language, Model, Dictionary, Grammar。Q群：11033572
 -   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 -   [hchunhui/librime-cloud](https://github.com/hchunhui/librime-cloud)
 -   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)
@@ -261,11 +262,9 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [CHNZYX/Auto_Simulated_Universe](https://github.com/CHNZYX/Auto_Simulated_Universe) - 崩坏：星穹铁道 模拟宇宙自动化 （Honkai Star Rail - Auto Simulated Universe）
 -   [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 -   [qiin2333/Sunshine-Foundation](https://github.com/qiin2333/Sunshine-Foundation) - Sunshine Enhanced Edition
--   [LinYuanovo/pikpak_auto_invite](https://github.com/LinYuanovo/pikpak_auto_invite) - PikPak自动邀请程序，附带图像识别过验证码，支持本地及GitHub Actions云端运行
 -   [KawaiiSh1zuku/BilibiliWorldRushScript](https://github.com/KawaiiSh1zuku/BilibiliWorldRushScript) - 自动抢票脚本
 -   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 -   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
--   [Z4ee/Pipsi-HSR-Releases](https://github.com/Z4ee/Pipsi-HSR-Releases)
 -   [ifeng0188/GenshinLiveStreamHelper](https://github.com/ifeng0188/GenshinLiveStreamHelper) - 一款用于原神直播活动的抢码助手，支持哔哩哔哩、虎牙、斗鱼多个平台的自动抢码，附带一些页面优化功能
 -   [IAMSHENSH/g-mark-magic-ext](https://github.com/IAMSHENSH/g-mark-magic-ext) - Your browser's enchanting solution for effortless, intelligent bookmark management.
 -   [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
@@ -304,7 +303,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Moriafly/SPW](https://github.com/Moriafly/SPW) - Salt Player for Windows（椒盐音乐 Windows 版）
 -   [starudream/miyoushe-task](https://github.com/starudream/miyoushe-task) - miyoushe task 米游社 每日任务 原神 崩坏 星铁 绝区零
 -   [ityard/python-fxxk-spider](https://github.com/ityard/python-fxxk-spider) - 收集各种免费的 Python 爬虫项目
--   [lyscop/tampermonkey](https://github.com/lyscop/tampermonkey)
 -   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 -   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 -   [wdvipa/GenshinLiveStreamHelper](https://github.com/wdvipa/GenshinLiveStreamHelper) - 一款用于原神直播活动的抢码助手，支持哔哩哔哩、虎牙、斗鱼多个平台的自动抢码，附带一些页面优化功能
@@ -372,7 +370,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [ylk2534246654/MyACGSourceRepository](https://github.com/ylk2534246654/MyACGSourceRepository) - 🍞基于在线代码托管，为 MyACG 提供的一个开放的搜索源仓库。
 -   [gkd-kit/subscription](https://github.com/gkd-kit/subscription) - GKD 默认订阅规则
 -   [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
--   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 -   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 100,000 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 -   [ishare20/lemonPush](https://github.com/ishare20/lemonPush) - 同一WiFi环境下手机高效推送文本到电脑剪切板的工具 || An efficient tool for pushing text from your mobile device to your computer's clipboard under the same WiFi environment.
 -   [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music
@@ -380,7 +377,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 -   [yriiolik/MihoyoBBSTools](https://github.com/yriiolik/MihoyoBBSTools)
 -   [360NENZ/SR-Download-Library](https://github.com/360NENZ/SR-Download-Library) - Library of a certain Anime Game's Release, Beta and Audio files
--   [reversedrooms/FurinaImpact](https://github.com/reversedrooms/FurinaImpact) - Server backend reimplementation for some anime game
 -   [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 -   [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
 -   [GOOD-AN/Mys-Exchange-Goods](https://github.com/GOOD-AN/Mys-Exchange-Goods) - 用于兑换米游社商品
@@ -597,7 +593,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 -   [hex-ci/smzdm_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 -   [giao4giao/mt](https://github.com/giao4giao/mt) - mt论坛使用action来自动签到
--   [ImYrS/aliyun-auto-signin](https://github.com/ImYrS/aliyun-auto-signin) - 包含多账户和签到推送功能的阿里云盘自动签到脚本, 支持使用 GitHub Action 运行
 -   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
 -   [mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
 -   [YesknStudio/vmoex-framework](https://github.com/YesknStudio/vmoex-framework) - 一个开源的二次元向的社区程序。
@@ -642,7 +637,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 -   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
 -   [foamzou/media-get](https://github.com/foamzou/media-get) - Get the media through the url
--   [coolxitech/AutoMihoyoBBS](https://github.com/coolxitech/AutoMihoyoBBS) - 米游社签到全自动化脚本，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取
 -   [immersive-translate/old-immersive-translate](https://github.com/immersive-translate/old-immersive-translate) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation.
 -   [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 -   [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
@@ -655,7 +649,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [yhArcadia/YunzaiJsPlugins](https://github.com/yhArcadia/YunzaiJsPlugins) - 用来保存一些云崽机器人的插件
 -   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
 -   [yhArcadia/Yunzai-Bot-plugins-index](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) - Yunzai-Bot云崽QQ机器人插件索引
--   [Womsxd/AutoMihoyoBBS](https://github.com/Womsxd/AutoMihoyoBBS) - 米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取
 -   [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 -   [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！基于Nonebot2的原神机器人，包括但不限于UID面板查询、抽卡记录分析、游戏攻略图鉴、实时便签、原石札记、群聊学习、群管等功能。/ LittlePamon! Genshin Impact multifunctional bot based on Nonebot2.
 -   [babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy) - 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine.
@@ -673,7 +666,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [phonowell/genshin-impact-script](https://github.com/phonowell/genshin-impact-script) - 原神脚本，包含自动钓鱼、自动拾取、自动跳过对话等多项实用功能。A Genshin Impact script includes many useful features such as automatic fishing, automatic item pickup, automatic dialogue skipping, etc.
 -   [iyear/searchx](https://github.com/iyear/searchx) - 🔍 Enhance Telegram Search In 5 Minutes
 -   [UnblockNeteaseMusic/luci-app-unblockneteasemusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) - [OpenWrt] 解除网易云音乐播放限制
--   [vikiboss/genshin-helper](https://github.com/vikiboss/genshin-helper) - 「原神助手」PC 端小工具，支持祈愿抽卡分析、查看便签状态和游戏详细数据等。基于 Electron 和 React 。
 -   [cxf-boluo/magisk_All](https://github.com/cxf-boluo/magisk_All) - magisk 一键集成环境，再也不用每次刷完机繁琐的配置环境了！
 -   [fanwujiu130/Couldmusic](https://github.com/fanwujiu130/Couldmusic) - 转载自：  https://gitee.com/meng-chuan/Unlock-netease-cloud-music
 -   [wxxxcxx/ms-ra-forwarder](https://github.com/wxxxcxx/ms-ra-forwarder) - 免费的在线文本转语音API
@@ -695,7 +687,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 -   [EvanDbg/sillyGirlWeb](https://github.com/EvanDbg/sillyGirlWeb)
 -   [Ljzd-PRO/Mys_Goods_Tool](https://github.com/Ljzd-PRO/Mys_Goods_Tool) - 米游社商品兑换工具 | 短信验证登录 | 终端图形界面
--   [Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot) - 原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回
 -   [mozhu811/oh-my-helper](https://github.com/mozhu811/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
 -   [StarWishsama/Comet-Bot](https://github.com/StarWishsama/Comet-Bot) - ☄ 支持多 IM 平台的机器人
 -   [764763903a/xdd-plus](https://github.com/764763903a/xdd-plus) - xdd-plus
@@ -721,7 +712,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 -   [naier1860/linux-netspeed](https://github.com/naier1860/linux-netspeed) - from chiakge
 -   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
--   [ejiaogl/FuckCoolapk](https://github.com/ejiaogl/FuckCoolapk) - Best present for 316 and 423.
 -   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 -   [BlueSkyXN/requirements-serverless](https://github.com/BlueSkyXN/requirements-serverless) - 云函数常用requirements,一包解君愁,覆盖我常用的签到的py3云函数依赖
 -   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
@@ -730,13 +720,10 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus) - 一个Material Design风格的探针
 -   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 -   [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 　　常用网站签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选联想延保|联动云租车|数码之家|玩物志好物商店|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之家|富贵论坛|ug爱好者|阅次元论坛|菜鸟图库|魅族社区|经管之家|有分享论坛|bigfun社区|阡陌居|HiFiNi|Hires后花园|曲奇云盘|游戏动力|百度爱企查|轻之文库|Qoo|天使动漫|耽漫|立创|捷配|花火论坛|17k小说|触站|起点读书|美团买菜|奥拉星积分商城|共创
--   [zer0e/bh3-rainbow-fart](https://github.com/zer0e/bh3-rainbow-fart) - 崩坏3 vscode-rainbow-fart 中文语音包
 -   [Ran-ying/Klee-rainbow-fart](https://github.com/Ran-ying/Klee-rainbow-fart) - 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。
 -   [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 -   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 -   [Jox2018/hostloc_getPoints](https://github.com/Jox2018/hostloc_getPoints) - 小鸡定时获取hostloc积分
--   [datugou/WPS_daily_check_in](https://github.com/datugou/WPS_daily_check_in) - 自动完成 WPS 会员每日邀请好友任务，需要手动在微信小程序打卡签到
--   [lepecoder/checkin](https://github.com/lepecoder/checkin) - python自动签到脚本，WPS小程序签到，有道云笔记签到
 -   [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) - 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 -   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 -   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -752,25 +739,20 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [auto-bot-ty/qidian-chapterReview](https://github.com/auto-bot-ty/qidian-chapterReview) - 起点本章说
 -   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 -   [Soung2279/Mirai-Bot-Setup](https://github.com/Soung2279/Mirai-Bot-Setup) - Windows环境下部署qq机器人指南。A guide for building up a qqbot with Windows.
--   [Johnson8888/jd_sign_bot](https://github.com/Johnson8888/jd_sign_bot) - 京东签到机器人
 -   [hyzaw/JDMemberCloseLinks](https://github.com/hyzaw/JDMemberCloseLinks) - 一键使用京东ck生成所有退会链接
 -   [XiaoMiku01/miyoubiAuto](https://github.com/XiaoMiku01/miyoubiAuto) - 米游社每日米游币自动化脚本
--   [yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper) - miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利
--   [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
 -   [chenxuuu/v-live-check](https://github.com/chenxuuu/v-live-check) - 📡vtuber live monitor. 监控虚拟主播开播状态，通过telegram机器人和MQTT推送开播提醒。
 -   [tgbot-collection/DailyGakki](https://github.com/tgbot-collection/DailyGakki) - 😘 每日分享最可爱的Gakki😭老婆嫁人啦😭
 -   [y-young/nazurin](https://github.com/y-young/nazurin) - 🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.
 -   [tgbot-collection/ExpressBot](https://github.com/tgbot-collection/ExpressBot) - 一个可以帮你订阅、查询快递物流、跟你闲聊Telegram机器人
 -   [nrop19/Find-Jav-bot](https://github.com/nrop19/Find-Jav-bot) - Telegram 番号机器人 源码
 -   [FunctionClub/LocaleCN](https://github.com/FunctionClub/LocaleCN) - 更改Linux服务器终端显示语言为中文的脚本
--   [lan-tianxiang/dailycheckin](https://github.com/lan-tianxiang/dailycheckin) - 可基于【腾讯云函数】/【GitHub Actions】/【Docker】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜WPS｜吾爱破解｜芒果TV｜联通营业厅｜Fa米家｜喜马拉雅极速版｜小米运动｜百度搜索资源平台｜每日天气预报｜每日一句｜哔咔漫画｜和彩云｜智友邦｜微博｜
 -   [lan-tianxiang/jd_shell](https://github.com/lan-tianxiang/jd_shell) - Node网页开发工具
 -   [lan-tianxiang/jd_scripts](https://github.com/lan-tianxiang/jd_scripts)
 -   [lan-tianxiang/JS_TOOL](https://github.com/lan-tianxiang/JS_TOOL) - Node网页开发工具
 -   [ruicky/jd_sign_bot](https://github.com/ruicky/jd_sign_bot) - 京东签到机器人
 -   [oooldking/doubi](https://github.com/oooldking/doubi) - 一个逗比写的各种逗比脚本~
 -   [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
--   [Tsuk1ko/genshin-mys-checkin](https://github.com/Tsuk1ko/genshin-mys-checkin) - 【蚊子的腿也是肉】原神米游社每日签到，原神微博超话签到、领取礼包、自动推送
 -   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 -   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 -   [hishis/forum-grandmaster-for-discuz](https://github.com/hishis/forum-grandmaster-for-discuz) - 论坛网站页面美化、广告移除、功能增强。美轮美奂的视觉享受，安然恬静的论坛时光……
@@ -786,7 +768,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [rime/plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 -   [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 -   [devourbots/word_cloud_bot](https://github.com/devourbots/word_cloud_bot) - 一个可以统计群组用户发言，并且能将聊天内容生成词云的机器人
--   [imkuang/hostloc-auto-get-points](https://github.com/imkuang/hostloc-auto-get-points) - 使用 GitHub Actions 自动获取 Hostloc 论坛积分
 -   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 -   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 -   [ToyoDAdoubi/ServerStatus-Toyo](https://github.com/ToyoDAdoubi/ServerStatus-Toyo) - 云探针、多服务器探针、云监控、多服务器云监控，演示：
@@ -802,7 +783,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [tinafangkunding/awesome-serverless](https://github.com/tinafangkunding/awesome-serverless) - 🔥  腾讯云 云函数 SCF / Serverless 的 100 种玩法，签到，打卡，小程序，图床，刷金币等各种应用集合。
 -   [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 -   [HouCoder/tele-aria2](https://github.com/HouCoder/tele-aria2) - A Telegram bot for controlling your aria2 server.
--   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 -   [xunyixiangchao/goindex](https://github.com/xunyixiangchao/goindex) - Google Drive Directory Index
 -   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 -   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
@@ -811,13 +791,11 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [badyun/AShare](https://github.com/badyun/AShare) - 一款阿里云盘多账户直链解析程序
 -   [aj23koby4495612/aj23koby4495612](https://github.com/aj23koby4495612/aj23koby4495612)
 -   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
--   [happy888888/BiliExp](https://github.com/happy888888/BiliExp) - B站(bilibili 哔哩哔哩)助手:1.每日投币观看分享视频(快速升6级),签到(直播+漫画), 动态抽奖,风纪投票,直播挂机(小心心),天选时刻等日常操作(云函数+Actions+docker)(多账户)。2.漫画视频番剧音乐下载器(CLI)。3.up主视频专栏音乐动态投稿的python实现
 -   [jialezi/flowerss-bot](https://github.com/jialezi/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 -   [jialezi/gd-utils-docker](https://github.com/jialezi/gd-utils-docker)
 -   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 -   [yuki-xin/picgo-plugin-web-uploader](https://github.com/yuki-xin/picgo-plugin-web-uploader)
 -   [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
--   [srcrs/UnicomTask](https://github.com/srcrs/UnicomTask) - 联通手机营业厅自动做任务、签到、领流量、领积分等。
 -   [ZeroOneCN/EShareTool](https://github.com/ZeroOneCN/EShareTool)
 -   [PandaAdap/EShareTool](https://github.com/PandaAdap/EShareTool) - EShareTool is an application running on Windows platform which can bypass ESurfingClient's sharing limited.
 -   [plummm/AntiRecall](https://github.com/plummm/AntiRecall) - Anti-Recall/Anti-Delete for Telegram, WeChat, and QQ（针对Telegram, QQ和微信的防撤回）
