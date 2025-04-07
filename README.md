@@ -12,6 +12,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [WuSuoV/verifyBookSource](https://github.com/WuSuoV/verifyBookSource) - 校验阅读书源，生成有效书源和无效书源。支持书源去重、多线程。有源码和exe文件。
+-   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
 -   [zqq-nuli/Cloudflare-Navihive](https://github.com/zqq-nuli/Cloudflare-Navihive) - NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。
 -   [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 -   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python. 
@@ -28,7 +30,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 -   [qiaoshouqing/familytree](https://github.com/qiaoshouqing/familytree) - A minimalist open-source family tree website project.
 -   [Dr-Ai-0018/Siliconflow-API-Management](https://github.com/Dr-Ai-0018/Siliconflow-API-Management) - 一个功能强大的API Key管理平台，不仅通过智能负载均衡算法自动选择可用API密钥，而且提供密钥有效性检测、管理、权限分享等功能实现。系统设计基于Cloudflare Worker脚本，部署简单，同时提供强大的可视化管理工具与全面的数据分析功能。
--   [ltxlong/simple-video-player](https://github.com/ltxlong/simple-video-player)
 -   [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 -   [ihmily/StreamCap](https://github.com/ihmily/StreamCap) - 多平台直播流自动录制工具 · 基于FFmpeg · 支持监控/定时/转码 | Multi-Platform Live Stream Automatic Recording Tool
 -   [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载……持续更新
