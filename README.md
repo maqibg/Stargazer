@@ -12,6 +12,11 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [Bear-biscuit/Zero_download](https://github.com/Bear-biscuit/Zero_download) - 适用于zero搬运网的下载工具
+-   [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV) - 一键部署的影视站
+-   [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测
+-   [fengyuanluo/FireMail](https://github.com/fengyuanluo/FireMail) - 一款专为Microsoft邮箱设计的批量收件工具，提供简单高效的邮件管理解决方案
+-   [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
 -   [WuSuoV/verifyBookSource](https://github.com/WuSuoV/verifyBookSource) - 校验阅读书源，生成有效书源和无效书源。支持书源去重、多线程。有源码和exe文件。
 -   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
 -   [zqq-nuli/Cloudflare-Navihive](https://github.com/zqq-nuli/Cloudflare-Navihive) - NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。
@@ -243,7 +248,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
 -   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 -   [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) - HTTP(S) download manager that uses input/output completion ports (IOCP).
--   [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+-   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 -   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 -   [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 -   [Ven3/playcount](https://github.com/Ven3/playcount) - 为bilibili而来, 用来刷B站播放量, 懂的都懂
