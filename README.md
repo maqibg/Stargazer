@@ -12,6 +12,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 -   [Bear-biscuit/Zero_download](https://github.com/Bear-biscuit/Zero_download) - 适用于zero搬运网的下载工具
 -   [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV) - 一键部署的影视站
 -   [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测
@@ -350,7 +351,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
 -   [neatgz/PotPlayer_OneKey_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
 -   [Witnesscm/Yunzai-JS-Plugin](https://github.com/Witnesscm/Yunzai-JS-Plugin) - 自用云崽bot js插件
--   [GuGuNiu/Miao-Plugin-MBT](https://github.com/GuGuNiu/Miao-Plugin-MBT) - 喵喵插件的原神&星铁面板图库
+-   [GuGuNiu/Miao-Plugin-MBT](https://github.com/GuGuNiu/Miao-Plugin-MBT) - Yunzai的原神&星铁&绝区零&鸣潮面板图库
 -   [ywmoyue/biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩UWP Lite
 -   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 -   [CmdBlockZQG/cbjq](https://github.com/CmdBlockZQG/cbjq) - 尘白禁区 信源研析小工具
